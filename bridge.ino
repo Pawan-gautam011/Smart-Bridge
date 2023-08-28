@@ -3,7 +3,7 @@
 Servo tap_servo;  // Declare a Servo object named "tap_servo"
 int sensor_pin = 13;  // Pin connected to the sensor
 int tap_servo_pin = 12;  // Pin connected to the servo
-int val;  // Variable to store sensor value
+int val;  // Variable to store s
 
 void setup() {
   pinMode(sensor_pin, INPUT);  // Set sensor_pin as an input
